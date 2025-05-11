@@ -25,7 +25,7 @@ Este projeto simula o processamento assíncrono de pedidos usando ASP.NET Core e
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 ```
-## 2. Instale o pacote MassTransi.RabbitMQ na sua solução
+### 2. Instale o pacote MassTransi.RabbitMQ na sua solução
 
 Utilize o NuPackage manager para instalar o pacote necessario para trabalhar com o RabbitMQ
 
